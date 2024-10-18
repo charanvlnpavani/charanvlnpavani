@@ -23,8 +23,7 @@ I’m passionate about crafting responsive, dynamic, and efficient web applicati
 - Contributing to open-source projects and improving collaboration skills
 
 ### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Portfolio](https://your-portfolio.com) _(if available)_
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/pavanivlncharan/)
+- [Email](mailto:pvlnc98@gmail.com)
 
 Feel free to check out my repositories below, where I showcase my projects and experiments! 👨‍💻  
