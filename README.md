@@ -24,6 +24,6 @@ I’m passionate about crafting responsive, dynamic, and efficient web applicati
 
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/pavanivlncharan/)
-- [Email](mailto:pvlnc98@gmail.com)
+- [Email](mailto:pavanivlncharan@outlook.com)
 
 Feel free to check out my repositories below, where I showcase my projects and experiments! 👨‍💻  
