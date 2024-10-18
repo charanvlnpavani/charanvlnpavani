@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm PVLN Charan
+# Hi there! 👋 I'm Pavani VLN Charan
 
 🚀 **Frontend Developer | 2+ years of experience**  
 🌍 Based in Hyderabad, India  
