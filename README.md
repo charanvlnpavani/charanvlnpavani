@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm PVLN Charan
 
-<!--
-**pvlnc/pvlnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | 2+ years of experience**  
+🌍 Based in Hyderabad, India  
 
-Here are some ideas to get you started:
+I’m passionate about crafting responsive, dynamic, and efficient web applications. I love turning ideas into reality using code and am always excited to learn new technologies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Backend:** PHP, Laravel, MySQL
+- **Version Control:** Git, GitHub, SVN
+- **Other Skills:** REST APIs, AJAX, JSON, Linux Commands
+
+### 📚 Currently Learning
+- Node.js - Enhancing my backend skills to build full-stack applications
+
+### 🛠️ What I’ve Built
+- **Voting System**: Developed a web-based voting system during my final year project.
+- **Dashboard UI**: Created a new dashboard interface for [Deepija Telecom](https://www.deepijatelecom.com) enhancing data interaction and user experience.
+  
+### 🎯 What I’m Working On
+- Sharpening my skills in full-stack development with **Node.js** and **Express.js**  
+- Contributing to open-source projects and improving collaboration skills
+
+### 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [Portfolio](https://your-portfolio.com) _(if available)_
+- [Email](mailto:your-email@example.com)
+
+Feel free to check out my repositories below, where I showcase my projects and experiments! 👨‍💻  
