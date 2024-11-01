@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pavani VLN Charan
 
 🚀 **Frontend Developer | 2+ years of experience**  
-🌍 Based in Hyderabad, India  
+🌍 Based in Bangalore, India  
 
 I’m passionate about crafting responsive, dynamic, and efficient web applications. I love turning ideas into reality using code and am always excited to learn new technologies!
 
