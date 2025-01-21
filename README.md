@@ -2,7 +2,7 @@
 🌟 **Frontend Developer | 2+ years of experience**  
 📍 Based in Bangalore, India  
 
-I'm passionate about building **responsive**, **dynamic**, and **efficient** web applications. I love transforming ideas into reality using code and continuously learning new technologies. 🚀  
+I’m passionate about building **responsive**, **dynamic**, and **efficient** web applications. I enjoy transforming ideas into reality using code and am constantly learning new technologies. 🚀  
 
 ---
 
@@ -43,9 +43,9 @@ I'm passionate about building **responsive**, **dynamic**, and **efficient** web
 ---
 
 ## 🛠️ **Projects**
-- **Voting System**: Built a web-based voting platform during my final year project.  
-- **Dashboard UI**: Designed a user-friendly dashboard for [Deepija Telecom](https://www.deepijatelecom.com).  
-- **YouTube Clone**: Created a responsive YouTube clone using **ReactJS**.
+- **Voting System**: A web-based voting platform developed during my final year project.  
+- **Dashboard UI**: A user-friendly dashboard designed for [Deepija Telecom](https://www.deepijatelecom.com).  
+- **YouTube Clone**: A responsive YouTube clone built using **ReactJS**.
 
 ---
 
@@ -58,6 +58,6 @@ I'm passionate about building **responsive**, **dynamic**, and **efficient** web
 
 ## ⚡ **Fun Facts**
 - I enjoy capturing moments with photography 📸.  
-- I love playing indoor games and listening to music 🎵.  
+- I love playing indoor games and listening to music 🎵.
 
 Feel free to explore my repositories and connect with me! 🚀
