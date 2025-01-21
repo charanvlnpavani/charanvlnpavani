@@ -52,7 +52,7 @@ I’m passionate about building **responsive**, **dynamic**, and **efficient** w
 ## 📫 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanivlncharan)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:pavanivlncharan@outlook.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://bento.me/charanvlnpavani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://www.charanvlnpavani.in/)
 
 ---
 
