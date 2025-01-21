@@ -33,7 +33,7 @@ I'm a passionate **Frontend Developer** with **2+ years of experience**, special
 
 - **Email**: [pavanivlncharan@outlook.com](mailto:pavanivlncharan@outlook.com)  
 - **LinkedIn**: [linkedin.com/in/pavanivlncharan](https://www.linkedin.com/in/pavanivlncharan)
-- - **Portfolio**: [charanvlnpavani](https://www.charanvlnpavani.in)  
+- **Portfolio**: [charanvlnpavani](https://www.charanvlnpavani.in)  
 - **Bento Portfolio**: [bento.me/charanvlnpavani](https://bento.me/charanvlnpavani)  
 
 I'm always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out!
