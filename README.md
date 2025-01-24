@@ -1,7 +1,7 @@
 # Namaste 🙏, I'm [Pavani VLN Charan]!
 
 ## About Me
-I'm a passionate Frontend Developer with 2 years of experience, specializing in React, PHP + Laravel, JavaScript, and Bootstrap. I'm currently expanding my skill set to include full-stack development with Node.js.
+I'm a passionate Frontend Developer with 2 years of experience, specializing in React, Redux, JavaScript, Material UI, Shadcn, Php, MySql, RestAPI . I'm currently expanding my skill set to include full-stack development with Node.js.
 
 ## Technical Skills 🛠️
 
@@ -14,11 +14,15 @@ I'm a passionate Frontend Developer with 2 years of experience, specializing in 
 
 ### Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
-## Connect with Me 📫
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+## Portfolio 🔗
+
+- **Portfolio**: [Charan VLN Pavani](https://charanvlnpavani.in)
+
+I'm always looking to connect with like-minded professionals and explore new opportunities. Feel free to reach out!
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanvlnpavani&layout=compact&theme=radical)](https://github.com/charanvlnpavani)
