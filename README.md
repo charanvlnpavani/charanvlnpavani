@@ -14,6 +14,7 @@ I'm a passionate Frontend Developer with 2 years of experience, specializing in 
 
 ### Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
