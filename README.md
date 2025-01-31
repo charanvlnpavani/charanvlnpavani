@@ -10,31 +10,27 @@ Engineered scalable B2B SaaS platforms and applications that reduced operational
 Created interactive dashboards and ticket management features for telecom platforms, enhancing server monitoring capabilities and reducing issue resolution times.
 My experience spans working with tools such as Git, REST APIs, Bootstrap, AJAX, JSON, and I am proficient with version control systems (SVN, GitHub) and Linux commands for deployment and server-side management. I thrive in collaborative environments and have consistently delivered solutions that improve user engagement and operational efficiency.
 
-# Languages  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-</p>
+# 💻 Languages  
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=next)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Gatsby](https://skillicons.dev/icons?i=gatsby)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Material UI](https://skillicons.dev/icons?i=materialui)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Sass](https://skillicons.dev/icons?i=sass)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
 
-# Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/327408/vercel.svg" width="40" height="40"/>
-</p>
+# 🛠 Tools  
+![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
 
 ## Portfolio 🔗
