@@ -13,6 +13,7 @@ My experience spans working with tools such as Git, REST APIs, Bootstrap, AJAX, 
 ## 🛠 Technical Skills 💻
 
  💻 Languages  
+ 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
@@ -23,6 +24,7 @@ My experience spans working with tools such as Git, REST APIs, Bootstrap, AJAX, 
 ![CSS3](https://skillicons.dev/icons?i=css)
 
  🛠 Tools  
+ 
 ![Git](https://skillicons.dev/icons?i=git)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
