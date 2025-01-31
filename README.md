@@ -10,6 +10,8 @@ Engineered scalable B2B SaaS platforms and applications that reduced operational
 Created interactive dashboards and ticket management features for telecom platforms, enhancing server monitoring capabilities and reducing issue resolution times.
 My experience spans working with tools such as Git, REST APIs, Bootstrap, AJAX, JSON, and I am proficient with version control systems (SVN, GitHub) and Linux commands for deployment and server-side management. I thrive in collaborative environments and have consistently delivered solutions that improve user engagement and operational efficiency.
 
+## 🛠 Technical Skills 💻
+
 # 💻 Languages  
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
