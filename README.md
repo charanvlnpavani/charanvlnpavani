@@ -1,4 +1,4 @@
-# Namaste 🙏, I'm [Pavani VLN Charan]!
+# Namaste 🙏, I'm Pavani VLN Charan!
 
 ## About Me
 I'm a passionate Frontend Developer with over 2 years of experience specializing in React.js, JavaScript, and modern web technologies. My journey in web development began with a strong foundation in HTML, CSS, PHP, and MySQL, and has since evolved into a focused expertise in frontend technologies, user-centered design, and creating engaging, responsive web applications.
