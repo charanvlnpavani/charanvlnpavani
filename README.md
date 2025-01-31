@@ -10,6 +10,9 @@ Engineered scalable B2B SaaS platforms and applications that reduced operational
 Created interactive dashboards and ticket management features for telecom platforms, enhancing server monitoring capabilities and reducing issue resolution times.
 My experience spans working with tools such as Git, REST APIs, Bootstrap, AJAX, JSON, and I am proficient with version control systems (SVN, GitHub) and Linux commands for deployment and server-side management. I thrive in collaborative environments and have consistently delivered solutions that improve user engagement and operational efficiency.
 
+
+
+
 ## 🛠 Technical Skills 💻
 
  💻 Languages  
@@ -31,11 +34,16 @@ My experience spans working with tools such as Git, REST APIs, Bootstrap, AJAX, 
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 
+
+
 ## Portfolio 🔗
 
 - **Portfolio**: [Charan VLN Pavani](https://charanvlnpavani.in)
 
 I'm always looking to connect with like-minded professionals and explore new opportunities. Feel free to reach out!
+
+
+
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanvlnpavani&layout=compact&theme=radical)](https://github.com/charanvlnpavani)
