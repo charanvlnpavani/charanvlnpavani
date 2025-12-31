@@ -1,16 +1,9 @@
 # Namaste 🙏, I'm Pavani VLN Charan!
 
 ## About Me
-I'm a passionate Frontend Developer with over 2 years of experience specializing in React.js, JavaScript, and modern web technologies. My journey in web development began with a strong foundation in HTML, CSS, PHP, and MySQL, and has since evolved into a focused expertise in frontend technologies, user-centered design, and creating engaging, responsive web applications.
+I am a Full-Stack Developer at LogPilot with experience building scalable, secure, and user-centric web applications. I specialize in JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and REST APIs, delivering end-to-end solutions from intuitive frontend interfaces to robust backend systems. I have designed and implemented role-based authentication and authorization for enterprise and government applications, ensuring secure multi-user access. Additionally, I have engineered a multi-role B2B SaaS platform for property management and developed a B2B employee management system with automated PDF ID card generation to improve operational efficiency.
 
-In my current and past roles, I have:
-
-Developed and optimized role-based authentication systems for government-backed school management projects, ensuring robust data security and streamlined access control.
-Engineered scalable B2B SaaS platforms and applications that reduced operational costs and improved user interactions.
-Created interactive dashboards and ticket management features for telecom platforms, enhancing server monitoring capabilities and reducing issue resolution times.
-My experience spans working with tools such as Git, REST APIs, Bootstrap, AJAX, JSON, and I am proficient with version control systems (SVN, GitHub) and Linux commands for deployment and server-side management. I thrive in collaborative environments and have consistently delivered solutions that improve user engagement and operational efficiency.
-
-
+I am passionate about writing clean, maintainable code, optimizing performance, and continuously learning modern full-stack technologies. I enjoy collaborating with cross-functional teams to build reliable products that solve real-world problems.
 
 
 ## 🛠 Technical Skills 💻
