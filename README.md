@@ -1,6 +1,6 @@
 # Namaste 🙏, I'm Pavani VLN Charan
 
-🚀 **Full-Stack Developer | MERN Stack | Python | Scalable Systems | DSA & Problem Solving**
+🚀 **Full-Stack Developer | MERN Stack | Python | AI Tools | Scalable Systems | DSA & Problem Solving**
 
 ---
 
@@ -9,6 +9,8 @@
 I am a **Full-Stack Developer with 2.3+ years of professional experience** building **scalable, secure, and high-performance web applications** using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 
 Alongside product development, I actively practice **Data Structures & Algorithms (DSA)** using **JavaScript and Python**, focusing on writing **optimized, readable, and scalable solutions**. My problem-solving skills strongly influence my **backend architecture, API design, and system-level decisions**.
+
+I also leverage **AI-powered developer tools** to improve **code quality, productivity, debugging efficiency, and system design exploration**, while maintaining strong fundamentals and independent problem-solving ability.
 
 I have delivered measurable business impact, including:
 - ⚡ **15% faster ticket resolution**
@@ -62,8 +64,22 @@ across **SaaS, B2B, and enterprise-scale applications**.
 - 📈 Progressive difficulty: **Easy → Medium → Hard**
 - 🔁 Consistent daily & weekly practice
 
-🔗 **LeetCode Profile**: [LeetCode](https://leetcode.com/u/charanvlnpavani/)  
-*(https://leetcode.com/u/charanvlnpavani/)*
+🔗 **LeetCode Profile**: https://leetcode.com/your-username  
+*(Replace with your actual profile link)*
+
+---
+
+## 🤖 AI Tools & Developer Productivity
+
+I effectively use **AI-powered tools** as a productivity multiplier while ensuring strong engineering judgment and code ownership.
+
+- 🤖 **ChatGPT / GPT-based tools** – Code reviews, refactoring, DSA explanations, system design brainstorming  
+- 🧠 **GitHub Copilot** – Faster coding with contextual suggestions  
+- 🧪 **AI-assisted debugging** – Root cause analysis and edge case discovery  
+- 🧩 **AI for DSA practice** – Alternative approaches, optimization insights  
+- 📝 **Documentation & Knowledge Sharing** – Clear README and technical writing support  
+
+> ⚠️ *AI is used as an assistant, not a replacement for core problem-solving skills.*
 
 ---
 
@@ -160,12 +176,7 @@ across **SaaS, B2B, and enterprise-scale applications**.
 - 🌍 **Portfolio**: https://charanvlnpavani.in  
 - 💼 **LinkedIn**: https://linkedin.com/in/charanvlnpavani  
 - 🧑‍💻 **GitHub**: https://github.com/charanvlnpavani  
+- 🧑‍💻 **Twitter**: 
 
----
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanvlnpavani&layout=compact&theme=radical)
-
----
 
 ⭐ **Strong believer that great system design starts with strong problem-solving fundamentals.**
