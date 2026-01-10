@@ -64,7 +64,7 @@ across **SaaS, B2B, and enterprise-scale applications**.
 - 📈 Progressive difficulty: **Easy → Medium → Hard**
 - 🔁 Consistent daily & weekly practice
 
-🔗 **LeetCode Profile**: https://leetcode.com/your-username  
+🔗 **LeetCode Profile**: [LeetCode](https://leetcode.com/u/charanvlnpavani/)
 *(Replace with your actual profile link)*
 
 ---
@@ -78,8 +78,6 @@ I effectively use **AI-powered tools** as a productivity multiplier while ensuri
 - 🧪 **AI-assisted debugging** – Root cause analysis and edge case discovery  
 - 🧩 **AI for DSA practice** – Alternative approaches, optimization insights  
 - 📝 **Documentation & Knowledge Sharing** – Clear README and technical writing support  
-
-> ⚠️ *AI is used as an assistant, not a replacement for core problem-solving skills.*
 
 ---
 
