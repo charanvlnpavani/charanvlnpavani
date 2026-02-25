@@ -1,7 +1,7 @@
 # Namaste 🙏,
 # 👋 Hi, I’m Charan VLN Pavani
 
-🚀 **Full-Stack Engineer | MERN Stack | TypeScript | Scalable SaaS Systems | DSA Practitioner**
+🚀 **Full-Stack Engineer | MERN Stack | TypeScript | System Design | Building Scalable SaaS & Distributed Systems | DSA Practitioner**
 
 I design and build **scalable, secure, and high-performance web applications** using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 
