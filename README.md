@@ -30,13 +30,13 @@ I focus on building systems that are:
 
 ## 🏗 System Architecture
 
-Client (React + TypeScript)
-↓
-API Layer (Express)
-↓
-Service Layer
-↓
-MongoDB (Indexed Collections)
+- Client (React + TypeScript)
+- ↓
+- API Layer (Express)
+- ↓
+- Service Layer
+- ↓
+- MongoDB (Indexed Collections)
 
 
 ### 🔥 Highlights
