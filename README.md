@@ -30,9 +30,13 @@ I focus on building systems that are:
 
 ## 🏗 System Architecture
 
-<p align="center">
-  <img src="./assets/architecture.png" width="800"/>
-</p>
+Client (React + TypeScript)
+↓
+API Layer (Express)
+↓
+Service Layer
+↓
+MongoDB (Indexed Collections)
 
 
 ### 🔥 Highlights
