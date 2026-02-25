@@ -28,17 +28,11 @@ I focus on building systems that are:
 **Problem:** Inefficient physical queue handling in service centers  
 **Solution:** Real-time token system with dynamic wait-time estimation  
 
-### 🏗 Architecture
+## 🏗 System Architecture
 
-----------------------------------------
-|  Client (React + TypeScript)          |
-|  ↓                                    |
-|  API Layer (Express)                  |
-|  ↓                                    |
-|  Service Layer                        |    
-|  ↓                                    |
-|  MongoDB (Indexed Collections)        |
------------------------------------------
+<p align="center">
+  <img src="./assets/architecture.png" width="800"/>
+</p>
 
 
 ### 🔥 Highlights
@@ -119,32 +113,38 @@ All solutions are validated for logic, edge cases, performance, and scalability.
 ---
 
 
-# 🛠 Tech Stack
+# 🛠 Tech Stack & Tools
 
 ## 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,tailwind,html,css" />
-</p>
+![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,vite)
 
-## ⚙ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask" />
-</p>
+## ⚙️ Backend
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,python,php)
 
-## 🔌 APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,swagger" />
-</p>
+## 🔗 APIs & Architecture
+![API Skills](https://skillicons.dev/icons?i=postman)
 
-<p>
-REST API Design • JWT • RBAC • MVC Architecture • API Validation • Pagination
-</p>
+- RESTful API Design  
+- JWT Authentication  
+- Role-Based Access Control (RBAC)  
+- MVC Architecture  
+- Pagination & Structured Error Handling  
 
-## 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+## 🗄 Databases
+![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)
+
+## 🤖 AI Tools & Productivity
+![AI Tools](https://skillicons.dev/icons?i=github)
+
+- ChatGPT / GPT-based tools  
+- GitHub Copilot  
+- AI-assisted debugging & system design exploration  
+
+## 🧰 Developer Tools
+![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel)
+
 ---
+
 
 # 🧪 Engineering Practices
 
