@@ -118,23 +118,32 @@ All solutions are validated for logic, edge cases, performance, and scalability.
 
 ---
 
-# ⚙️ Tech Stack
+
+# 🛠 Tech Stack
 
 ## 🎨 Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,next,redux,tailwind,html,css" />
 </p>
 
 ## ⚙ Backend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask" />
 </p>
 
-## 🗄 Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+## 🔌 APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,swagger" />
 </p>
 
+<p>
+REST API Design • JWT • RBAC • MVC Architecture • API Validation • Pagination
+</p>
+
+## 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 ---
 
 # 🧪 Engineering Practices
