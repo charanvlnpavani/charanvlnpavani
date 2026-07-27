@@ -1,202 +1,306 @@
-# Namaste 🙏,
-# 👋 Hi, I’m Charan VLN Pavani
+<div align="center">
 
-🚀 **Full-Stack Engineer | MERN Stack | TypeScript | System Design | Building Scalable SaaS & Distributed Systems | DSA Practitioner**
+# Namaste 🙏, I'm Charan VLN Pavani
 
-I design and build **scalable, secure, and high-performance web applications** using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
+### Full-Stack Engineer | MERN Stack | TypeScript | SPFx | System Design | DSA
 
-> 🧠 Great system design starts with strong problem-solving fundamentals.
+I build secure, scalable, and maintainable web applications using modern JavaScript technologies.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-charanvlnpavani.in-0A66C2?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://charanvlnpavani.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charan_VLN_Pavani-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/charanvlnpavani)
+[![GitHub](https://img.shields.io/badge/GitHub-charanvlnpavani-181717?style=for-the-badge\&logo=github)](https://github.com/charanvlnpavani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-charanvlnpavani-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/charanvlnpavani/)
 
-## 🏗 Engineering Mindset
-
-I focus on building systems that are:
-
-- 🔐 Secure (RBAC, JWT, validation, protected routes)
-- ⚡ Performant (Lazy loading, memoization, indexing)
-- 🧩 Modular (Reusable components, service layers)
-- 📈 Scalable (Pagination, structured APIs, clean separation)
-- 🧠 Algorithmically optimized (Time & Space aware solutions)
+</div>
 
 ---
 
-# 🚀 Featured Full-Stack Projects
+## 👨‍💻 About Me
 
-## ☕ CoffeeQueue Pro – SaaS Queue Management System
+I am a Full-Stack Engineer focused on building reliable, high-performance web applications with the **MERN stack**, **TypeScript**, and clean software architecture.
 
-**Problem:** Inefficient physical queue handling in service centers  
-**Solution:** Real-time token system with dynamic wait-time estimation  
+* 🔭 Building full-stack applications, SaaS dashboards, and SharePoint SPFx solutions
+* 🌱 Learning advanced system design, scalable backend architecture, and distributed-system fundamentals
+* 🧠 Practising Data Structures and Algorithms using JavaScript, Python, and Java
+* 🛡️ Interested in secure authentication, role-based access control, validation, and API design
+* ⚡ Focused on performance, maintainability, reusable components, and clean code
+* 🤖 Using AI tools to improve productivity while independently validating every solution
+* 📸 Also interested in photography, teaching, and technical content creation
 
-## 🏗 System Architecture
-
-- Client (React + TypeScript)
-- API Layer (Express)
-- Service Layer
-- MongoDB (Indexed Collections)
-
-
-### 🔥 Highlights
-
-- Role-Based Dashboards (Admin / Staff)
-- Secure JWT Authentication
-- Real-time status updates
-- Performance-optimized rendering
-- HTTPS deployment with SSL
+> Great system design starts with strong problem-solving fundamentals.
 
 ---
 
-## 🏢 Multi-Role B2B SaaS Dashboard
+## 🏗️ Engineering Mindset
 
-- Complex data tables (pagination, filtering, bulk selection)
-- REST API integration with structured error handling
-- Modular component architecture
-- Production-ready deployment flow
+I aim to build systems that are:
 
----
-
-## 🔐 Government School Management System
-
-- Implemented Role-Based Access Control (RBAC)
-- Secure authentication flows
-- Optimized data rendering for large datasets
-- Modular and scalable UI design
+| Principle    | How I Apply It                                                                           |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| 🔐 Secure    | JWT authentication, RBAC, protected routes, validation, and safe error handling          |
+| ⚡ Performant | Lazy loading, memoization, pagination, database indexing, and optimized rendering        |
+| 🧩 Modular   | Reusable components, service layers, custom hooks, and clear separation of concerns      |
+| 📈 Scalable  | Structured APIs, maintainable architecture, caching awareness, and efficient data access |
+| 🧠 Optimized | Time and space complexity analysis, suitable data structures, and measurable trade-offs  |
+| 🛠️ Reliable | Centralized errors, defensive programming, edge-case handling, and predictable workflows |
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## 🚀 Featured Projects
 
-I regularly practice DSA using **JavaScript & Python & Java**.
+### ☕ CoffeeQueue Pro — SaaS Queue Management System
 
-### 🔎 Patterns I Focus On
+A real-time token and queue-management application designed to reduce physical waiting time in service centres.
 
-- Sliding Window
-- Two Pointers
-- Binary Search
-- Recursion & Backtracking
-- Trees & Graphs (BFS / DFS)
-- Dynamic Programming
+**Architecture**
 
-### 💡 Engineering Impact
+```text
+React + TypeScript Client
+        ↓
+Express API Layer
+        ↓
+Business Service Layer
+        ↓
+MongoDB Indexed Collections
+```
 
-DSA practice improves:
-- Backend efficiency
-- API response performance
-- Query optimization
-- System-level design thinking
+**Highlights**
 
-🔗 **LeetCode:** https://leetcode.com/u/charanvlnpavani/
-
----
-# 🤖 AI Tools & Developer Productivity
-
-I use AI-powered tools as a **productivity multiplier**, while maintaining strong engineering judgment and independent problem-solving ability.
-
-## 🧠 How I Use AI
-
-- 🔍 Code reviews & refactoring
-- 🧪 Debugging & edge-case discovery
-- 🏗 System design brainstorming
-- 📈 Algorithm optimization comparison
-- 📝 Technical documentation improvement
-
-## 🛠 Tools
-
-- ChatGPT / GPT-based tools
-- GitHub Copilot
-- AI-assisted debugging workflows
-
-## ⚖️ My Approach
-
-AI assists — it does not replace engineering thinking.  
-All solutions are validated for logic, edge cases, performance, and scalability.
+* Role-based dashboards for administrators and staff
+* Secure JWT authentication and protected routes
+* Real-time queue and token status updates
+* Dynamic waiting-time estimation
+* Optimized React rendering
+* Production deployment with HTTPS and SSL
 
 ---
 
+### 🏢 Multi-Role B2B SaaS Dashboard
 
-# 🛠 Tech Stack & Tools
+A scalable business dashboard designed for complex data operations and multiple user roles.
 
-## 🎨 Frontend
-![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,vite)
+**Highlights**
 
-## ⚙️ Backend
-![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,python,php)
-
-## 🔗 APIs & Architecture
-![API Skills](https://skillicons.dev/icons?i=postman)
-
-- RESTful API Design  
-- JWT Authentication  
-- Role-Based Access Control (RBAC)  
-- MVC Architecture  
-- Pagination & Structured Error Handling  
-
-## 🗄 Databases
-![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)
-
-## 🤖 AI Tools & Productivity
-![AI Tools](https://skillicons.dev/icons?i=github)
-
-- ChatGPT / GPT-based tools  
-- GitHub Copilot  
-- AI-assisted debugging & system design exploration  
-
-## 🧰 Developer Tools
-![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel)
+* Paginated and filterable data tables
+* Bulk selection and action workflows
+* REST API integration
+* Structured loading, success, and error states
+* Modular component architecture
+* Production-ready deployment workflow
 
 ---
 
+### 🏫 School Management System
 
-# 🧪 Engineering Practices
+A role-based management platform for handling institutional workflows and large datasets.
 
-- Centralized error handling
-- Structured API responses
-- Input validation & security checks
-- Clean folder architecture
-- Performance monitoring mindset
-- Agile & Git-based workflows
+**Highlights**
 
----
-
-# 📈 Measurable Impact
-
-- ⚡ 15% faster ticket resolution
-- 🔄 30% workflow automation
-- 💰 20% operational cost reduction
-- 📊 25% frontend performance improvement
+* Role-Based Access Control
+* Secure authentication flows
+* Modular and reusable user-interface components
+* Optimized rendering for large datasets
+* Maintainable feature-based architecture
 
 ---
 
-# 🌍 Let’s Connect
+### 🧩 SharePoint SPFx Business Applications
 
-🌐 **Portfolio:** https://charanvlnpavani.in  
-💼 **LinkedIn:** https://linkedin.com/in/charanvlnpavani  
-🧑‍💻 **GitHub:** https://github.com/charanvlnpavani  
+Enterprise forms and dashboards built with **SharePoint Framework**, **React**, **TypeScript**, **PnPjs**, and **Fluent UI**.
 
----
+**Highlights**
 
-# 🎯 Current Focus
-
-- Advanced System Design
-- Scalable Backend Architecture
-- Performance Optimization
-- Clean Code & Maintainability
-- Interview-level DSA mastery
+* New, edit, and view form workflows
+* SharePoint list integration
+* People Picker and lookup fields
+* Search, filters, pagination, and validation
+* File uploads and reusable form components
+* Role-aware enterprise workflows
 
 ---
 
-# 💡 Engineering Philosophy
+## 🧠 Data Structures and Algorithms
 
+I regularly practise DSA using **JavaScript, Python, and Java**.
+
+### Patterns I Focus On
+
+* Arrays and Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Stack and Queue
+* Linked Lists
+* Binary Search
+* Recursion and Backtracking
+* Trees and Graphs
+* Breadth-First Search and Depth-First Search
+* Greedy Algorithms
+* Dynamic Programming
+
+### Why It Matters
+
+DSA helps me improve:
+
+* Backend processing efficiency
+* API response performance
+* Query and data-access decisions
+* Debugging and edge-case analysis
+* System-design problem solving
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,vite" alt="Frontend technologies" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,php" alt="Backend technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database technologies" />
+</p>
+
+### Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" alt="Developer tools" />
+</p>
+
+### Enterprise Development
+
+* SharePoint Framework
+* PnPjs
+* Fluent UI
+* SharePoint Lists
+* Microsoft 365 development
+* REST API integration
+
+---
+
+## 🔗 API and Architecture Skills
+
+* RESTful API design
+* MVC and layered architecture
+* JWT authentication
+* Role-Based Access Control
+* Input validation
+* Pagination and filtering
+* Centralized error handling
+* Structured API responses
+* Database indexing
+* Service-layer architecture
+* Reusable component design
+* Performance optimization
+
+---
+
+## 🤖 AI-Assisted Developer Productivity
+
+I use AI as a productivity multiplier—not as a replacement for engineering judgement.
+
+### How I Use AI
+
+* Code reviews and refactoring
+* Debugging and edge-case discovery
+* System-design brainstorming
+* Algorithm comparison
+* Test-case generation
+* Technical documentation
+* Learning unfamiliar concepts faster
+
+### Tools
+
+* ChatGPT and GPT-based tools
+* GitHub Copilot
+* AI-assisted debugging workflows
+
+Every AI-assisted solution is reviewed for correctness, security, maintainability, performance, and scalability.
+
+---
+
+## 🧪 Engineering Practices
+
+* Clean and maintainable folder architecture
+* Reusable components and service layers
+* Centralized error handling
+* Structured API responses
+* Input validation and security checks
+* Git-based collaboration
+* Agile development workflow
+* Performance-aware implementation
+* Edge-case and failure-state analysis
+* Clear technical documentation
+
+---
+
+## 📈 Selected Impact
+
+* ⚡ Improved frontend performance by approximately **25%**
+* 🔄 Helped automate workflows by approximately **30%**
+* 💰 Contributed to approximately **20% operational cost reduction**
+* 🛠️ Improved ticket-resolution speed by approximately **15%**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=charanvlnpavani&show_icons=true&hide_border=true&theme=transparent" alt="Charan's GitHub statistics" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanvlnpavani&layout=compact&hide_border=true&theme=transparent" alt="Charan's most used languages" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* Advanced system design
+* Scalable backend architecture
+* Distributed-system fundamentals
+* Performance optimization
+* Clean code and maintainability
+* Interview-level DSA
+* Production-ready SaaS development
+
+---
+
+## 💡 Engineering Philosophy
+
+```text
 Build systems that:
-- Handle scale
-- Fail gracefully
-- Stay maintainable
-- Protect user data
-- Deliver measurable business impact
+
+✓ Handle growth
+✓ Fail gracefully
+✓ Protect user data
+✓ Remain maintainable
+✓ Deliver measurable business value
+```
 
 ---
 
-⭐ If you're building something meaningful and scalable —  
-let’s connect and build it right.
+## 🌍 Connect With Me
 
+* 🌐 Portfolio: [charanvlnpavani.in](https://charanvlnpavani.in)
+* 💼 LinkedIn: [linkedin.com/in/charanvlnpavani](https://linkedin.com/in/charanvlnpavani)
+* 🧑‍💻 GitHub: [github.com/charanvlnpavani](https://github.com/charanvlnpavani)
+* 🧠 LeetCode: [leetcode.com/u/charanvlnpavani](https://leetcode.com/u/charanvlnpavani/)
 
+---
+
+<div align="center">
+
+### ⭐ Building meaningful, scalable, and maintainable software—one solution at a time.
+
+</div>
