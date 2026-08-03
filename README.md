@@ -252,17 +252,6 @@ Every AI-assisted solution is reviewed for correctness, security, maintainabilit
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=charanvlnpavani&show_icons=true&hide_border=true&theme=transparent" alt="Charan's GitHub statistics" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanvlnpavani&layout=compact&hide_border=true&theme=transparent" alt="Charan's most used languages" />
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
